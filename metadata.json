@@ -1,0 +1,7 @@
+{
+  "name": "ChefMentor - 初学者烹饪助手",
+  "description": "面向烹饪新手的智能助手，通过分析文字或图片菜谱，提供口感优化、风味提升及摆盘建议。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
